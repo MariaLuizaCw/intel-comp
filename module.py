@@ -48,7 +48,7 @@ def generate_data(N, target_function, noise_ratio=0.0):
 
 def transform_data(X):
     x1, x2 = X[:, 0], X[:, 1]
-    X_transformed = np.c_[np.ones(X.shape[0]), x1, x2, x1 * x2, x1**2, x2**2]
+    X_transformed = np.c_[x1, x2, x1 * x2, x1**2, x2**2]
     return X_transformed
 
 
