@@ -14,7 +14,7 @@ This repository contains the code and notebooks developed for the practical work
 - Notebooks:
   - `perceptron.ipynb`: Contains the implementation and experiments with the Perceptron algorithm.
   - `regression_linear.ipynb`: Contains the implementation and experiments with the Linear Regression algorithm.
-  - `regression_nonlinear.ipynb`: Contains the implementation and experiments with Nonlinear Regression algorithms.
+  - `regression_nonlinear.ipynb`: Contains the implementation and experiments with Nonlinear Data and tranformations.
   - `pocket_pla.ipynb`: Contains the implementation and experiments with the Pocket PLA (Perceptron Learning Algorithm).
 
 ## Requirements
@@ -22,7 +22,6 @@ This repository contains the code and notebooks developed for the practical work
 To run the notebooks, make sure you have the following Python packages installed:
 
 - NumPy
-- Pandas
 - Matplotlib
 - Jupyter
 
